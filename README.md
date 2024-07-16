@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prakash Ningure. (30Pika)
+- 👋 Hi, I’m Prakash Ningure. 
 - 👀 I’m interested in MERN Stack Development.
 - 🌱 I’m currently completed intership in mern development.
 - 💞️ Now I’m looking to collaborate as developer
